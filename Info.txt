@@ -1,0 +1,5 @@
+Student_id : 2313110450
+Student Name : Kochapong Yutthanakornchai
+Major : IT
+Level : 1
+Faculty : Information Technology
